@@ -4,9 +4,10 @@
 
 - item: 作者
   icon: fab fa-hive
-  link: https://www.baozaoxs.top
+  # link: https://www.baozaoxs.top
+  url: https://www.yuque.com/shenweiyan
 
-
+      
 # - item: 关于
 #   icon: fa fa-cog
 #   link: ""
