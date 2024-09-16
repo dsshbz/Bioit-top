@@ -3,19 +3,7 @@
 - taxonomy: 作者站点
   icon: fas fa-medal
   links:
-    - title: '史提芬先森 · 语雀'
-      logo: y/yuque.webp
-      url: https://www.yuque.com/shenweiyan
-      description: 作者的语雀花园主页。
-    - title: Knowledge-Garden
-      logo: k/knowledge-garden.webp
-      url: https://github.com/shenweiyan/Knowledge-Garden
-      description: All in GitHub Discussions.
-    - title: 知识花园
-      logo: o/octocat.png
-      url: https://weiyan.cc
-      description: 基于 MkDocs Material 个人站点。
-    - title: BioIT 爱好者
+    - title: 北络
       logo: b/bioitee.webp
       url: https://www.bioitee.com/
       description: BioIT 爱好者主页。
@@ -35,7 +23,7 @@
       logo: q/qrcode.png
       url: https://www.bioitee.com
       qrcode: https://res.bioit.top/logos/qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
+      description: 微信公众号：暴躁小叔！
 
 - taxonomy: 常用推荐
   icon: far fa-star
