@@ -40,7 +40,30 @@
           logo: https://blog.luckly-mjw.cn/favicon.ico
           url: https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html
           description: m3u8视频在线提取工具。
-          
+        - title: 搜字体
+          logo: https://www.souziti.com/wp-content/themes/modown/static/img/favicon.svg
+          url: https://www.souziti.com/
+          description: 在线扫一扫图片找字体
+        - title: 分离人声
+          logo: https://vocalremover.org/favicon.ico
+          url: https://vocalremover.org/zh/
+          description: AI人声分离工具
+        - title: 贝贝BiliBili
+          logo: https://xbeibeix.com/wp-content/uploads/2019/07/cropped-%E6%9C%AA%E5%91%BD%E5%90%8D_%E5%89%AF%E6%9C%AC-32x32.jpg
+          url: https://xbeibeix.com/api/bilibili/
+          description: bilibili视频下载
+        - title: 万能命令
+          logo: https://wannengrun.com/favicon.ico
+          url: https://wannengrun.com/zh/#seeSome
+          description: 快捷直达你想要的工具
+        - title: 微软Ai语音
+          logo: https://azure.microsoft.com/favicon.ico
+          url: https://azure.microsoft.com/zh-cn/products/ai-services/ai-speech/#features
+          description: 微软语音转文字工具
+        - title: 简历下载
+          logo: https://jianlixiazai.cn/assets/img/favicon.ico
+          url: https://jianlixiazai.cn/
+          description: 简历模版免费下载        
 
 
          
