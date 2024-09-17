@@ -6,7 +6,7 @@
     - title: 北络
       logo: b/bioitee.webp
       url: https://www.bioitee.com/
-      description: BioIT 爱好者主页。
+      description: 北络个人主页。
     - title: Markdown2Html
       logo: m/markdown.png
       url: https://md.bioitee.com/
@@ -15,10 +15,6 @@
       logo: l/lark-suite.webp
       url: https://shenweiyan.feishu.cn/next/messenger
       description: 先进企业，先用飞书。
-    - title: 'Lark Suite Messenger'
-      logo: l/lark-suite.webp
-      url: https://shenweiyan.sg.larksuite.com/next/messenger
-      description: 先进企业协作与管理平台。
     - title: 关注我们
       logo: q/qrcode.png
       url: https://www.bioitee.com
@@ -28,46 +24,24 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: 语雀
+    - title: 飞书文档
       logo: y/yuque.webp
-      url: https://www.yuque.com/
+      url: hhttps://feishu.cn/favicon.ico
       description: 专业的云端知识库。
-    - title: 开源中国
-      logo: o/oschina.webp
-      url: https://www.oschina.net/
-      description: 中文开源技术交流社区。
-    - title: 公众号平台
-      logo: m/mp-weixin.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
-    - title: 搜狗微信
-      logo: s/sogou.webp
-      url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达。
-    - title: 微博
-      logo: w/weibo.webp
-      url: https://weibo.com/
-      description: 随时随地发现新鲜事。
-    - title: 推特
-      logo: x/x-twitter.webp
-      url: https://x.com/
-      description: Twitter
-    - title: 知乎
-      logo: z/zhihu.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。
-    - title: 文心一言
-      url: https://yiyan.baidu.com/
-      logo: y/yiyan-baidu-com.webp
-      description: yiyan.baidu.com
-    - title: ChatGPT
-      url: https://chat.openai.com/
-      logo: c/chatgpt.webp
-      description: chat.openai.com
-    - title: V2EX
-      logo: v/v2ex.jpg
-      url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区。
+  links: 
+    - title: 腾讯文档
+      logo: Discord
+      url: https://docs.idqqimg.com/tim/docs/docs-design-resources/pc/svg/file_web_logo_32-b074c7d607.svg?ver=1
+      description: 专业的云端知识库。
+  links: 
+    - title: Discord
+      logo: Discord
+      url: https://discord.com/login
+      description: 专业的云端知识库。
+
+
+
+ 
       
 - taxonomy: 码农专区
   icon: fab fa-github
