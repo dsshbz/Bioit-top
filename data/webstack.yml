@@ -64,10 +64,6 @@
           logo: https://wannengrun.com/favicon.ico
           url: https://wannengrun.com/zh/#seeSome
           description: 快捷直达你想要的工具
-        - title: 微软Ai语音
-          logo: https://azure.microsoft.com/favicon.ico
-          url: https://azure.microsoft.com/zh-cn/products/ai-services/ai-speech/#features
-          description: 微软语音转文字工具
         - title: 简历下载
           logo: https://jianlixiazai.cn/assets/img/favicon.ico
           url: https://jianlixiazai.cn/
@@ -120,6 +116,10 @@
           logo: https://docsmall.com/favicon.png
           url: https://docsmall.com/gif-compress?ref=www.tboxn.com
           description: GIF动图压缩工具
+        - title: 图片放大
+          logo: hhttps://bigjpg.com/favicon.ico
+          url: https://bigjpg.com/
+          description: ai智能图片无损放大
         - title: 在线打开文件
           logo: https://openfiles.online/assets/logo.svg
           url: https://openfiles.online/
@@ -132,10 +132,6 @@
           logo: https://iknow.lenovo.com.cn/favicon.ico
           url: https://iknow.lenovo.com.cn/tool/lists?ref=www.tboxn.com
           description: 联想智能解决工具
-        - title: 图片放大
-          logo: hhttps://bigjpg.com/favicon.ico
-          url: https://bigjpg.com/
-          description: ai智能图片无损放大
         - title: PDF24 tools
           logo: https://tools.pdf24.org/static/img/pdf24.png?v=658057a1
           url: https://tools.pdf24.org/zh/all-tools
@@ -152,10 +148,6 @@
           logo: https://arc.tencent.com/logo.ico
           url: https://arc.tencent.com/zh/ai-demos/imgRestore
           description: 人像修复/人像修图/动漫增强
-        - title: 腾讯ACR
-          logo: https://arc.tencent.com/logo.ico
-          url: https://arc.tencent.com/zh/ai-demos/imgRestore
-          description: 人像修复/人像修图/动漫增强
         - title: 临时邮箱
           logo: https://www.moakt.com/favicon.ico
           url: https://www.moakt.com/
@@ -168,10 +160,6 @@
           logo: https://www.51shipinbianji.com/images/51videoMicrosoft.ico
           url: https://www.51shipinbianji.com/
           description: 51视频压缩工具
-        - title: TTSMaker文字转语音
-          logo: https://ttsmaker.cn/static/v3_theme_01_asset/logo/favicon.ico?version=3
-          url: https://ttsmaker.cn/
-          description: 在线免费语音转文字工具
         - title: 工具哇
           logo: https://toolwa.com/favicon.png
           url: https://toolwa.com/
@@ -192,8 +180,20 @@
           logo: https://www.reecho.cn/images/favicon.png
           url: https://www.reecho.cn/
           description: 超拟真语音克隆
+        - title: Adobe语音增强
+          logo: https://podcast.adobe.com/favicon.ico
+          url: https://podcast.adobe.com/enhance
+          description: 免费 AI过滤器、用于清理语音音频
+        - title: 微软Ai语音
+          logo: https://azure.microsoft.com/favicon.ico
+          url: https://azure.microsoft.com/zh-cn/products/ai-services/ai-speech/#features
+          description: 微软语音转文字工具
+        - title: TTSMaker文字转语音
+          logo: https://ttsmaker.cn/static/v3_theme_01_asset/logo/favicon.ico?version=3
+          url: https://ttsmaker.cn/
+          description: 在线免费语音转文字工具
 
-
+          
 
           
     - term: 影视资源
