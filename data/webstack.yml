@@ -92,6 +92,18 @@
           logo: https://www.gaitubao.com/favicon.ico
           url: https://www.gaitubao.com/
           description: 在线修改照片大小尺寸工具
+        - title: 在线图片处理
+          logo: https://imagestool.com/favicon.ico
+          url: https://imagestool.com/zh_CN/
+          description: 无需上传也可以处理图片
+        - title: Remove图片去背景
+          logo: https://www.yalijuda.com/qfy-content/uploads/2020/05/81a83783c78bbe2002d50d4a16c55e21.png
+          url: https://www.remove.bg/zh
+          description: 在线抠图工具
+        - title: Pixian去除背景
+          logo: https://dq2gn5p12glyq.cloudfront.net/p/assets/m/favicons/pixian/apple-touch-icon-180_e5c5e123409b599a279b94c9a92e643f.png
+          url: https://pixian.ai/?ref=ai.tboxn.com
+          description: 在线抠图工具
         - title: PearOCR
           logo: https://pearocr.com/favicon.ico
           url: https://pearocr.com
@@ -100,18 +112,14 @@
           logo: https://www.yalijuda.com/qfy-content/uploads/2020/05/81a83783c78bbe2002d50d4a16c55e21.png
           url: https://www.yalijuda.com/
           description: 在线图片视频压缩工具
-        - title: Remove图片去背景
-          logo: https://www.yalijuda.com/qfy-content/uploads/2020/05/81a83783c78bbe2002d50d4a16c55e21.png
-          url: https://www.remove.bg/zh
-          description: 在线抠图工具
         - title: AVIF转JPG
           logo: https://cdkm.com/favicon.ico
           url: https://cdkm.com/cn/avif-to-jpg
           description: 在线AVIF转JPG转换工具
-        - title: Pixian去除背景
-          logo: https://dq2gn5p12glyq.cloudfront.net/p/assets/m/favicons/pixian/apple-touch-icon-180_e5c5e123409b599a279b94c9a92e643f.png
-          url: https://pixian.ai/?ref=ai.tboxn.com
-          description: 在线抠图工具
+        - title: GIF图压缩
+          logo: https://docsmall.com/favicon.png
+          url: https://docsmall.com/gif-compress?ref=www.tboxn.com
+          description: GIF动图压缩工具
         - title: 在线打开文件
           logo: https://openfiles.online/assets/logo.svg
           url: https://openfiles.online/
@@ -140,6 +148,54 @@
           logo: 
           url: http://www.395.net.cn/
           description: 书法字体等工具
+        - title: 腾讯ACR
+          logo: https://arc.tencent.com/logo.ico
+          url: https://arc.tencent.com/zh/ai-demos/imgRestore
+          description: 人像修复/人像修图/动漫增强
+        - title: 腾讯ACR
+          logo: https://arc.tencent.com/logo.ico
+          url: https://arc.tencent.com/zh/ai-demos/imgRestore
+          description: 人像修复/人像修图/动漫增强
+        - title: 临时邮箱
+          logo: https://www.moakt.com/favicon.ico
+          url: https://www.moakt.com/
+          description: Moakt Email临时邮箱专业服务
+        - title: 视频压缩
+          logo: https://qncdn.aoscdn.com/img/favicon.png
+          url: https://www.apowersoft.cn/compress-video-online
+          description: 傲软视频压缩工具
+        - title: 51视频压缩
+          logo: https://www.51shipinbianji.com/images/51videoMicrosoft.ico
+          url: https://www.51shipinbianji.com/
+          description: 51视频压缩工具
+        - title: TTSMaker文字转语音
+          logo: https://ttsmaker.cn/static/v3_theme_01_asset/logo/favicon.ico?version=3
+          url: https://ttsmaker.cn/
+          description: 在线免费语音转文字工具
+        - title: 工具哇
+          logo: https://toolwa.com/favicon.png
+          url: https://toolwa.com/
+          description: 在线工具大全
+        - title: 在线屏幕录制
+          logo: https://toolwa.com/record/favicon.ico
+          url: https://toolwa.com/record/
+          description: 在线屏幕录制工具
+        - title: 快门次数查询工具
+          logo: https://c1.guangcanshu.com/uploads/xinyue/images/favicon.ico
+          url: https://www.guangcanshu.com/s/suonikuaimenshuchaxun.html
+          description: 各个相机快门次数查询工具
+        - title: U钙网
+          logo: https://www.uugai.com/favicon.ico
+          url: https://www.uugai.com/
+          description: 免费logo制作工具
+        - title: Reecho睿声
+          logo: https://www.reecho.cn/images/favicon.png
+          url: https://www.reecho.cn/
+          description: 超拟真语音克隆
+
+
+
+          
     - term: 影视资源
       links:
         - title: 厂长资源
@@ -150,6 +206,15 @@
           logo: https://pic.imgdb.cn/item/66e96a01f21886ccc011bb64.webp
           url: https://www.duse1.com/
           description: 最新Netflix新剧
+        - title: BNULL无名小站
+          logo: https://www.btnull.in/favicon.ico
+          url: https://www.btnull.in/
+          description: 最新Netflix新剧
+        - title: 电影先生
+          logo: https://dianyi.ng/favicon.ico
+          url: https://dianyi.ng/
+          description: 电影先生 DianYi.ng
+
 
 
 
