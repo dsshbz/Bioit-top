@@ -140,7 +140,20 @@
           logo: 
           url: http://www.395.net.cn/
           description: 书法字体等工具
-         
+    - term: 影视资源
+      links:
+        - title: 厂长资源
+          logo: https://czzy.top/favicon.ico
+          url: https://www.cz01.vip/
+          description: 发布页-超清视频站
+        - title: 毒舌电影
+          logo: https://pic.imgdb.cn/item/66e96a01f21886ccc011bb64.webp
+          url: https://www.duse1.com/
+          description: 最新Netflix新剧
+
+
+
+          
 # ------------------------------------------------------------------------------------------------
 - taxonomy: 素材资源
   icon: fas fa-folder-open fa-lg
