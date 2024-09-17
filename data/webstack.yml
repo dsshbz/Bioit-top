@@ -27,17 +27,17 @@
     - title: 飞书文档
       logo: y/yuque.webp
       url: hhttps://feishu.cn/favicon.ico
-      description: 专业的云端知识库。
+      description: 飞书云端知识库。
   links: 
     - title: 腾讯文档
       logo: Discord
       url: https://docs.idqqimg.com/tim/docs/docs-design-resources/pc/svg/file_web_logo_32-b074c7d607.svg?ver=1
-      description: 专业的云端知识库。
+      description: 腾讯云端知识库。
   links: 
     - title: Discord
-      logo: Discord
+      logo: https://pic.imgdb.cn/item/66e908dcd9c307b7e99ed071.jpg
       url: https://discord.com/login
-      description: 专业的云端知识库。
+      description: 社交媒体的综合体。
 
 
 
