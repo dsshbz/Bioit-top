@@ -84,6 +84,57 @@
           logo: https://www.gaitubao.com/favicon.ico
           url: https://www.gaitubao.com/
           description: 在线修改照片大小尺寸工具
+       - title: PearOCR
+          logo: https://pearocr.com/favicon.ico
+          url: https://pearocr.com
+          description: 在线图片转文字工具
+       - title: 图片视频压缩工具
+          logo: https://www.yalijuda.com/qfy-content/uploads/2020/05/81a83783c78bbe2002d50d4a16c55e21.png
+          url: https://www.yalijuda.com/
+          description: 在线图片视频压缩工具
+       - title: Remove图片去背景
+          logo: https://www.yalijuda.com/qfy-content/uploads/2020/05/81a83783c78bbe2002d50d4a16c55e21.png
+          url: https://www.remove.bg/zh
+          description: 在线抠图工具
+       - title: AVIF转JPG
+          logo: https://cdkm.com/favicon.ico
+          url: https://cdkm.com/cn/avif-to-jpg
+          description: 在线AVIF转JPG转换工具
+       - title: Pixian去除背景
+          logo: https://dq2gn5p12glyq.cloudfront.net/p/assets/m/favicons/pixian/apple-touch-icon-180_e5c5e123409b599a279b94c9a92e643f.png
+          url: https://pixian.ai/?ref=ai.tboxn.com
+          description: 在线抠图工具
+       - title: 在线打开文件
+          logo: https://openfiles.online/assets/logo.svg
+          url: https://openfiles.online/
+          description: 在线打开各类常用文件
+       - title: favicon.ico抓取工具
+          logo: https://qglimg.qinglm.com/qinggl/favicon.ico
+          url: https://gonglue.qinggl.com/app/img/icon.jsp
+          description: 网页图标在线抓取工具
+       - title: 联想知识库
+          logo: https://iknow.lenovo.com.cn/favicon.ico
+          url: https://iknow.lenovo.com.cn/tool/lists?ref=www.tboxn.com
+          description: 联想智能解决工具
+       - title: 图片放大
+          logo: hhttps://bigjpg.com/favicon.ico
+          url: https://bigjpg.com/
+          description: ai智能图片无损放大
+       - title: PDF24 tools
+          logo: https://tools.pdf24.org/static/img/pdf24.png?v=658057a1
+          url: https://tools.pdf24.org/zh/all-tools
+          description: 所有的PDF工具
+       - title: PDF工具
+          logo: https://static.pdfcandy.com/images/favicon3.ico
+          url: https://pdfcandy.com/cn/download.html
+          description: 客户端版PDF工具
+       - title: 365工具
+          logo: 
+          url: http://www.395.net.cn/
+          description: 书法字体等工具
+
+          
+
 
          
 # ------------------------------------------------------------------------------------------------
