@@ -237,7 +237,7 @@
           description: 夸克、阿里云盘搜索工具         
   
           
-     - term: 影视资源
+    - term: 影视资源
       links:
         - title: 厂长资源
           logo: https://czzy.top/favicon.ico
