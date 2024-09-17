@@ -214,6 +214,28 @@
           url: http://www.395.net.cn/
           description: 书法字体等工具    
           
+
+
+          
+# ------------------------------------------------------------------------------------------------
+- taxonomy: 素材资源
+  icon: fas fa-folder-open fa-lg
+  list:
+    - term: 网盘资源
+      links:
+        - title: UP云搜
+          logo: https://cdn.tkk78.com/upyunso/web_static/static/img/upso_mlogo.png
+          url: https://www.upyunso.com/
+          description: 阿里云盘搜索工具
+        - title: 优聚搜
+          logo: https://jujuso.com/apple-touch-icon.png
+          url: https://jujuso.com/
+          description: 夸克、阿里云盘搜索工具
+        - title: 优聚搜
+          logo: https://jujuso.com/apple-touch-icon.png
+          url: https://jujuso.com/
+          description: 夸克、阿里云盘搜索工具
+          
     - term: 导航网站
       links:
         - title: 小众技术工具库
@@ -276,30 +298,6 @@
           logo: https://jujuso.com/apple-touch-icon.png
           url: https://jubt4.one/cn/drive.html#%E7%BD%91%E7%9B%98%E6%90%9C%E7%B4%A2
           description: 优质磁力资源
-
-
-
-
-          
-# ------------------------------------------------------------------------------------------------
-- taxonomy: 素材资源
-  icon: fas fa-folder-open fa-lg
-  list:
-    - term: 网盘资源
-      links:
-        - title: UP云搜
-          logo: https://cdn.tkk78.com/upyunso/web_static/static/img/upso_mlogo.png
-          url: https://www.upyunso.com/
-          description: 阿里云盘搜索工具
-        - title: 优聚搜
-          logo: https://jujuso.com/apple-touch-icon.png
-          url: https://jujuso.com/
-          description: 夸克、阿里云盘搜索工具
-        - title: 优聚搜
-          logo: https://jujuso.com/apple-touch-icon.png
-          url: https://jujuso.com/
-          description: 夸克、阿里云盘搜索工具
-
   
           
      - term: 影视资源
