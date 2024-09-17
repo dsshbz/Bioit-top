@@ -24,21 +24,18 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: Discord
-      logo: https://pic.imgdb.cn/item/66e908dcd9c307b7e99ed071.jpg
-      url: https://discord.com/login
-      description: 社交媒体的综合体。
-  links: 
     - title: 飞书文档
       logo: https://feishu.cn/favicon.ico
       url: https://gwulw35qki.feishu.cn/drive/home/
       description: 飞书云端知识库。
-  links: 
     - title: 腾讯文档
       logo: https://docs.idqqimg.com/tim/docs/docs-design-resources/pc/svg/file_web_logo_32-b074c7d607.svg?ver=1
       url: https://docs.qq.com/desktop/mydoc
       description: 腾讯云端知识库。
-
+    - title: Discord
+      logo: https://pic.imgdb.cn/item/66e908dcd9c307b7e99ed071.jpg
+      url: https://discord.com/login
+      description: 社交媒体的综合体。
 
  
       
