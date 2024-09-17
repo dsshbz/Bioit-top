@@ -24,6 +24,14 @@
       logo: https://docs.idqqimg.com/tim/docs/docs-design-resources/pc/svg/file_web_logo_32-b074c7d607.svg?ver=1
       url: https://docs.qq.com/desktop/mydoc
       description: 腾讯云端知识库。
+    - title: GitHub
+      logo: g/github.webp
+      url: https://github.com/
+      description: GitHub 开源社区。
+    - title: Vercel
+      logo: v/vercel.webp
+      url: https://vercel.com/
+      description: 通过前端云构建和部署最佳的 Web 体验。
     - title: Discord
       logo: https://pic.imgdb.cn/item/66e908dcd9c307b7e99ed071.jpg
       url: https://discord.com/login
@@ -134,39 +142,17 @@
           description: 书法字体等工具
          
 # ------------------------------------------------------------------------------------------------
-
- 
-- taxonomy: 码农专区
-  icon: fab fa-github
+- taxonomy: 素材资源
+  icon: fas fa-folder-open fa-lg
   list:
-    - term: 代码托管
+    - term: 网盘资源
       links:
-        - title: GitHub
-          logo: g/github.webp
-          url: https://github.com/
-          description: GitHub 开源社区。
-        - title: 码云
-          logo: g/gitee.webp
-          url: https://gitee.com/
-          description: 基于 Git 的代码托管和研发协作平台。
-    - term: 静态网站
-      links: 
-        - title: Webify
-          logo: c/cloud-tencent.webp
-          url: https://webify.cloudbase.net/
-          description: 专为 Web 开发者打造的应用托管平台。
-        - title: Netlify
-          logo: n/netlify.webp
-          url: https://app.netlify.com/
-          description: Netlify 组合式 Web 平台。
-        - title: Cloudflare Pages
-          logo: c/cloudflare-pages.webp
-          url: https://pages.cloudflare.com/
-          description: 前端开发人员协作和部署网站。
-        - title: Vercel
-          logo: v/vercel.webp
-          url: https://vercel.com/
-          description: 通过前端云构建和部署最佳的 Web 体验。
+        - title: 百度网盘
+          logo: 百度网盘.jpg
+          url: http://pan.baidu.com/
+          description: https://pan.baidu.com/.
+  
+ 
 # ------------------------------------------------------------------------------------------------      
 #icon可取
 # - taxonomy: 工作职场
@@ -193,14 +179,5 @@
 #           description: 阮一峰的网络日志。
 # ------------------------------------------------------------------------------------------------
 
-- taxonomy: 素材资源
-  icon: fas fa-folder-open fa-lg
-  list:
-    - term: 网盘资源
-      links:
-        - title: 百度网盘
-          logo: 百度网盘.jpg
-          url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
-  
+
         
