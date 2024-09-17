@@ -192,7 +192,10 @@
           logo: https://ttsmaker.cn/static/v3_theme_01_asset/logo/favicon.ico?version=3
           url: https://ttsmaker.cn/
           description: 在线免费语音转文字工具
-
+        - title: imgurl图床
+          logo: https://www.imgurl.org/favicon.ico
+          url: https://www.imgurl.org/
+          description: imgurl免费图床
           
 
           
