@@ -48,46 +48,10 @@
           logo: g/github.webp
           url: https://github.com/
           description: GitHub 开源社区。
-        - title: Codeberg
-          logo: c/codeberg.webp
-          url: https://codeberg.org/
-          description: "基于 Forgejo，(欧盟)德国开发者维护的托管平台。"
-        - title: GitCode
-          logo: g/gitcode.png
-          url: https://gitcode.com/
-          description: 开发者的代码家园。
         - title: 码云
           logo: g/gitee.webp
           url: https://gitee.com/
           description: 基于 Git 的代码托管和研发协作平台。
-        - title: CODING
-          logo: c/coding.webp
-          url: https://coding.net/
-          description: 一站式软件研发管理平台。
-        - title: 阿里云效
-          logo: c/codeup.svg
-          url: https://codeup.aliyun.com/
-          description: 企业级代码管理平台。
-        - title: 极狐
-          logo: g/gitlab.webp
-          url: https://jihulab.com/
-          description: GitLab 极狐版 (JH)。
-        - title: GitLab
-          logo: g/gitlab.webp
-          url: https://gitlab.com/
-          description: The One DevOps Platform.
-        - title: AtomGit
-          logo: a/atomgit.png
-          url: https://atomgit.com/
-          description: 开放原子开源基金会提供的代码托管平台。
-        - title: Gitea
-          logo: g/gitea.svg
-          url: https://gitea.com/
-          description: Git with a cup of tea!
-        - title: Framagit
-          logo: f/framagit.svg
-          url: https://framagit.org
-          description: 基于 GitLab 的法国公司，站点在德国。
     - term: 静态网站
       links: 
         - title: Webify
