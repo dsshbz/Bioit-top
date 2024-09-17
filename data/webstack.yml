@@ -168,51 +168,31 @@
           url: https://vercel.com/
           description: 通过前端云构建和部署最佳的 Web 体验。
 # ------------------------------------------------------------------------------------------------      
-
-- taxonomy: 工作职场
-  icon: fas fa-briefcase fa-lg
-  list:
-    - term: 邮箱服务
-      links:
-        - title: QQ 邮箱
-          logo: m/mail-qq.png
-          url: http://mail.qq.com/
-          description: 腾讯 QQ 邮箱。 
+#icon可取
+# - taxonomy: 工作职场
+#   icon: fas fa-briefcase fa-lg
+#   list:
+#     - term: 邮箱服务
+#       links:
+#         - title: QQ 邮箱
+#           logo: m/mail-qq.png
+#           url: http://mail.qq.com/
+#           description: 腾讯 QQ 邮箱。 
           
 # ------------------------------------------------------------------------------------------------
 
-- taxonomy: 生信科研
-  icon: fas fa-dna
-  list:
-    - term: 在线科研
-      links:
-        - title: NCBI
-          logo: n/ncbi.webp
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
+
+# - taxonomy: 教育学习
+#   icon: fas fa fa-graduation-cap
+#   list:        
+#     - term: 周刊杂志
+#       links:
+#         - title: 科技爱好者周刊
+#           url: http://www.ruanyifeng.com/blog/
+#           logo: r/ruanyifeng.png
+#           description: 阮一峰的网络日志。
 # ------------------------------------------------------------------------------------------------
 
-- taxonomy: 教育学习
-  icon: fas fa fa-graduation-cap
-  list:        
-    - term: 周刊杂志
-      links:
-        - title: 科技爱好者周刊
-          url: http://www.ruanyifeng.com/blog/
-          logo: r/ruanyifeng.png
-          description: 阮一峰的网络日志。
-# ------------------------------------------------------------------------------------------------
-- taxonomy: 社区论坛
-  icon: fas fa fa-comments
-  list:
-    - term: 社交娱乐
-      links:
-        - title: 虎扑社区
-          url: https://bbs.hupu.com/
-          logo: h/hupu-bbs.png
-          description: 以体育赛事和日常生活为主的专业直文化社区。
-
-# ------------------------------------------------------------------------------------------------      
 - taxonomy: 素材资源
   icon: fas fa-folder-open fa-lg
   list:
