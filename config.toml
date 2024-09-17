@@ -39,7 +39,6 @@ publishDir            = "public"
     logoExpandDark    = "https://res.bioit.top/sites/bioit-expand-light.png"
     logoCollapseLight = "https://res.bioit.top/sites/bi.png"
     logoCollapseDark  = "https://res.bioit.top/sites/bi.png"
-    blockground = "https://res.bioit.top/sites/bioit-expand-light.png"
 
 [markup.goldmark.renderer]
     unsafe = true
